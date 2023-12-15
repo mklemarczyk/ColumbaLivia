@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Trogon.ColumbaLivia (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Trogon.ColumbaLivia (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
